@@ -1,0 +1,15 @@
+C:\Users\112\source\repos\Percentage\Percentage\bin\Debug\net7.0\Percentage.exe
+C:\Users\112\source\repos\Percentage\Percentage\bin\Debug\net7.0\Percentage.deps.json
+C:\Users\112\source\repos\Percentage\Percentage\bin\Debug\net7.0\Percentage.runtimeconfig.json
+C:\Users\112\source\repos\Percentage\Percentage\bin\Debug\net7.0\Percentage.dll
+C:\Users\112\source\repos\Percentage\Percentage\bin\Debug\net7.0\Percentage.pdb
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.csproj.AssemblyReference.cache
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.AssemblyInfoInputs.cache
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.AssemblyInfo.cs
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.csproj.CoreCompileInputs.cache
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.dll
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\refint\Percentage.dll
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.pdb
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\Percentage.genruntimeconfig.cache
+C:\Users\112\source\repos\Percentage\Percentage\obj\Debug\net7.0\ref\Percentage.dll
